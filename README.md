@@ -8,7 +8,7 @@
 
 ---
 
-### 🙋🏽‍♂️About Me
+### About Me
 
 <p> I am a Machine Learning and Data Mining researcher who is particularly interested in the field of Scientific Discovery, that is, building theory and algorithms to discover novel (and causal) mechanisms that drive complex phenomena in Life Sciences. I hold a PhD from the Max Planck Institute for Informatics and Saarland University, where I studied the algorithmic exact discovery of robust multivariate and non-linear interactions with applications in Materials Science. But I have to admit that after joining the Computational Biology lab at Harvard as a postdoc, I found my "call" which is analazying big biological data to search for patterns that can increase our understaning about disease etiologies and that can be used in drug discovery. I like to work with anything from traditional statistics such as hypothesis testing and Decision Trees, all the way to Neural Networks and interpretable AI. Last but not least, I am grateful for all the opportunities I had to mentor students and their projects during their academic journies.
 </p>
