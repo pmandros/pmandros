@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hey there, I'm Panos (short for Παναγιώτης)
 
-<!--
-**pmandros/pmandros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align='center'>
+<a href="mailto:mandros.p@gmail.com"><img height="30" src="https://raw.githubusercontent.com/pmandros/pmandros/master/icon_email.png"></a>&nbsp;&nbsp;
+<a href="https://scholar.google.co.uk/citations?user=38Mh90QAAAAJ&hl=en"><img height="30" src="https://raw.githubusercontent.com/pmandros/pmandros/master/icon_gscholar.png"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/pmandros/"><img height="30" src="https://raw.githubusercontent.com/pmandros/pmandros/master/icon_linkedin.png"></a>&nbsp;&nbsp;
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🙋🏽‍♂️About Me
+
+<p> I am a Machine Learning and Data Mining researcher who is particularly interested in the field of Scientific Discovery, that is, building theory and algorithms to discover novel (and causal) mechanisms that drive complex phenomena in Life Sciences. I hold a PhD from the Max Planck Institute for Informatics and Saarland University, where I studied the algorithmic exact discovery of robust multivariate and non-linear interactions with applications in Materials Science. But I have to admit that after joining the Computational Biology lab at Harvard as a postdoc, I found my "call" which is analazying big biological data to search for patterns that can increase our understaning about disease etiologies and that can be used in drug discovery. I like to work with anything from traditional statistics such as hypothesis testing and Decision Trees, all the way to Neural Networks and interpretable AI. Last but not least, I am grateful for all the opportunities I had to mentor students and their projects during their academic journies.
+</p>
